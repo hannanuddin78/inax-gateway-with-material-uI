@@ -1,0 +1,15 @@
+{
+    "typescript.disableAutomaticTypeAcquisition": true,
+    "git.autofetch": true,
+    "editor.fontSize": 13,
+    "editor.tabSize": 8,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "files.autoSave": "afterDelay",
+    "files.saveConflictResolution": "overwriteFileOnDisk",
+    "editor.accessibilityPageSize": 5,
+    "diffEditor.wordWrap": "on",
+    "editor.suggest.shareSuggestSelections": true
+}
